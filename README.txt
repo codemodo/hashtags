@@ -28,7 +28,7 @@ tweets.txt
 To Compile and Run:
 ——————————————————-
 
-Makefile included in the program directory.  Navigate to the program directory and type “make” into console.
+Makefile included in the program directory.  Navigate to the program directory and type “make” into console. 
 
 Executable file named “hashtags” is created.  Run by typing “./hashtags”.
 
